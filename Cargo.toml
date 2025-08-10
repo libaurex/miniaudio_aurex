@@ -9,4 +9,5 @@ readme = "README.md"
 keywords = ["audio", "miniaudio", "sound"]
 categories = ["multimedia", "api-bindings"]
 
-[dependencies]
+[build-dependencies]
+cc = "1.2.31"
