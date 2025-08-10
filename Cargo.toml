@@ -1,10 +1,10 @@
 [package]
 name = "miniaudio_aurex"
 version = "0.11.22"
-edition = "2021"
-license = "MIT OR Apache-2.0"
+edition = "2024"
+license = "Apache-2.0"
 description = "Rust bindings for miniaudio with Aurex tweaks"
-repository = "https://github.com/yourname/miniaudio_aurex"
+repository = "https://github.com/libaurex/miniaudio_aurex"
 readme = "README.md"
 keywords = ["audio", "miniaudio", "sound"]
 categories = ["multimedia", "api-bindings"]
