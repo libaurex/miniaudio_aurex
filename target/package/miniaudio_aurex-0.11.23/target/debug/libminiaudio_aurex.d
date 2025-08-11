@@ -1,0 +1,1 @@
+F:\repos\libaurex-rs\external\miniaudio_aurex\target\package/miniaudio_aurex-0.11.23\target\debug\libminiaudio_aurex.rlib: F:\repos\libaurex-rs\external\miniaudio_aurex\target\package\miniaudio_aurex-0.11.23\build.rs F:\repos\libaurex-rs\external\miniaudio_aurex\target\package\miniaudio_aurex-0.11.23\src\lib.rs
